@@ -28,7 +28,7 @@ test_requires  'Test::NoWarnings'         => '0.084';
 no_index       'directory'                => qw{ t xt eg share inc privinc };
 homepage       'http://padre.perlide.org/';
 bugtracker     'http://padre.perlide.org/';
-repository     'http://svn.perlide.org/padre/trunk/Padre-WebSite/';
+repository     'https://github.com/PadreIDE/Padre-WebSite/';
 #MailingList    'http://mail.perlide.org/mailman/listinfo/padre-dev';
 install_script 'script/collector.pl';
 
